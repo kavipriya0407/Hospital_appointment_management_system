@@ -4,6 +4,8 @@
 
 ---
 
+LIVE DEMO URL: https://hospital-management-system-gus2.vercel.app/
+
 ## 📋 Table of Contents
 
 1. [Project Overview](#project-overview)
